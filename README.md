@@ -4,6 +4,10 @@
 
 <img src="./docs/preview-gif.gif" alt="Pré visualização da aplicação">
 
+## 🏁 Aplicação Online
+
+> [3D Store: Mario Cart](https://mario-cart-computacao-gracifa.vercel.app/)
+
 ## 🚀 Como iniciar a aplicação
 
 1. Abra o terminal na raíz do projeto e instale as dependencias:
@@ -24,7 +28,7 @@ ou
 yarn start
 ```
 
-# 💻 Tecnologias e Bibliotecas Utilizadas
+## 💻 Tecnologias e Bibliotecas Utilizadas
 
 * ReactJS
 * ThreeJS
