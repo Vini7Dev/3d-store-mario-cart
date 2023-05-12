@@ -1,48 +1,48 @@
 # 3D Store: Mario Kart
 
-> Página de produto de simulação para uma loja de produtos 3D
+> Product simulation page for a 3D product store
 
-<img src="./docs/preview-gif.gif" alt="Pré visualização da aplicação">
+<img src="./docs/preview-gif.gif" alt="Application preview">
 
-## 🏁 Aplicação Online
+## 🏁 Online Application
 
 > [3D Store: Mario Cart](https://mario-cart-computacao-gracifa.vercel.app/)
 
-## 🚀 Como iniciar a aplicação
+## 🚀 How to run the application
 
-1. Abra o terminal na raíz do projeto e instale as dependencias:
+1. Open the terminal at the root of the project and install the dependencies:
 ```bash
 npm install
 ```
-ou
+or
 ```bash
 yarn
 ```
 
-2. Inicie o projeto:
+2. Run the project:
 ```bash
 npm start
 ```
-ou
+or
 ```bash
 yarn start
 ```
 
-## 💻 Tecnologias e Bibliotecas Utilizadas
+## 💻 Technologies and Libraries Used
 
 * ReactJS
 * ThreeJS
-* Modelo 3D do Mario Kart
+* Mario Kart 3D model
 * Styled Components
 * React Icons
 
-## 🤝 Colaboradores
+## 🤝 Contributors
 
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/Vini7Dev" target="_blank">
-        <img src="https://avatars3.githubusercontent.com/u/94920663" width="100px;" alt="Foto do Vinícius Gabriel no GitHub"/><br>
+        <img src="https://avatars3.githubusercontent.com/u/94920663" width="100px;" alt="Vinícius Gabriel's photo on GitHub"><br>
         <sub>
           <b>Vinícius Gabriel</b>
         </sub>
@@ -51,7 +51,7 @@ yarn start
   </tr>
 </table>
 
-## License
+## ‍⚖️ License
 The MIT License (MIT)
 
 Copyright (c) 2023 Vinícius Brito
